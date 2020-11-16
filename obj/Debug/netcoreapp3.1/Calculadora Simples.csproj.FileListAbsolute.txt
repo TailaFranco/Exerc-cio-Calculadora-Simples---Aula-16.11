@@ -1,0 +1,13 @@
+C:\Users\walla\OneDrive\Área de Trabalho\Calculadora Simples\bin\Debug\netcoreapp3.1\Calculadora Simples.exe
+C:\Users\walla\OneDrive\Área de Trabalho\Calculadora Simples\bin\Debug\netcoreapp3.1\Calculadora Simples.deps.json
+C:\Users\walla\OneDrive\Área de Trabalho\Calculadora Simples\bin\Debug\netcoreapp3.1\Calculadora Simples.runtimeconfig.json
+C:\Users\walla\OneDrive\Área de Trabalho\Calculadora Simples\bin\Debug\netcoreapp3.1\Calculadora Simples.runtimeconfig.dev.json
+C:\Users\walla\OneDrive\Área de Trabalho\Calculadora Simples\bin\Debug\netcoreapp3.1\Calculadora Simples.dll
+C:\Users\walla\OneDrive\Área de Trabalho\Calculadora Simples\bin\Debug\netcoreapp3.1\Calculadora Simples.pdb
+C:\Users\walla\OneDrive\Área de Trabalho\Calculadora Simples\obj\Debug\netcoreapp3.1\Calculadora Simples.csprojAssemblyReference.cache
+C:\Users\walla\OneDrive\Área de Trabalho\Calculadora Simples\obj\Debug\netcoreapp3.1\Calculadora Simples.AssemblyInfoInputs.cache
+C:\Users\walla\OneDrive\Área de Trabalho\Calculadora Simples\obj\Debug\netcoreapp3.1\Calculadora Simples.AssemblyInfo.cs
+C:\Users\walla\OneDrive\Área de Trabalho\Calculadora Simples\obj\Debug\netcoreapp3.1\Calculadora Simples.csproj.CoreCompileInputs.cache
+C:\Users\walla\OneDrive\Área de Trabalho\Calculadora Simples\obj\Debug\netcoreapp3.1\Calculadora Simples.dll
+C:\Users\walla\OneDrive\Área de Trabalho\Calculadora Simples\obj\Debug\netcoreapp3.1\Calculadora Simples.pdb
+C:\Users\walla\OneDrive\Área de Trabalho\Calculadora Simples\obj\Debug\netcoreapp3.1\Calculadora Simples.genruntimeconfig.cache
